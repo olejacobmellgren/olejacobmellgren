@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">🔎 I’m currently working on the website for [Vektorprogrammet] (vektorprogrammet.no)<br>📖 I’m currently learning React and PHP<br>📫 Reach out to me at: [olejme@stud.ntnu.no]</p>
+<p align="left">🔎 I’m currently working on the website for [Vektorprogrammet](https://www.vektorprogrammet.no) <br>📖 I’m currently learning React and PHP<br>
+  📫 Reach out to me at: olejme@stud.ntnu.no </p>
 
 ###
 
@@ -61,18 +62,10 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/olejacobmellgren/olejacobmellgren/output/snake.svg" alt="Snake animation" />
-
-###
-
-<img align="right" height="100" src="https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif"  />
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=olejacobmellgren.olejacobmellgren&"  />
 </div>
+
+![alt text](https://media.giphy.com/media/TjAcxImn74uoDYVxFl/giphy.gif)
 
 ###
