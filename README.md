@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔎 I’m currently working on the website for [Vektorprogrammet](https://www.vektorprogrammet.no) <br>📖 I’m currently learning React and PHP<br>
+<p align="left">🔎 I’m currently working on the website for Vektorprogrammet(https://www.vektorprogrammet.no) <br>📖 I’m currently learning React and PHP<br>
   📫 Reach out to me at: olejme@stud.ntnu.no </p>
 
 ###
