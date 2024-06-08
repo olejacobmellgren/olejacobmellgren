@@ -13,7 +13,7 @@
 
 <div align="left">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,tailwind,mongodb,firebase,git,docker" height="30" alt="logos"  />
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,html,css,react,tailwind,mongodb,firebase,git,docker,flutter" height="30" alt="logos"  />
 </div>
 
 ###
